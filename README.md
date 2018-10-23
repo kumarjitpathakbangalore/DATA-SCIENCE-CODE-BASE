@@ -161,3 +161,34 @@
 
       - GGPLOT
       - TSNE
+
+* REINFORCEMENT LEARNING
+
+      - MULTI ARM BANDIT
+      - MC EVALUATION
+      - TEMPORAL DIFFERENCE LEARNING
+      - TD-LAMBDA
+      - Q-LEARNING
+      - DEEP Q-LEARNING
+      - DUELLING DEEP Q-NETWORK
+      - ACTOR CRITIC
+      - POLICY GRADIANT
+      - DEEP DETERMINISTIC POLICY GRADIANT
+      - MCTS
+      - ALPHAGO
+      - ALPHA ZERO SIMULATION
+      
+* GENETIC ALGORITHM
+
+      - SIMPLE GENETIC ALGORITHM
+      - EVOLUTION STRATEGIES
+            - CMA-ES
+            - NES
+            - ANT COLONY OPTIMIZATION
+            - SWARM INTELLIGENCE
+            - BAT ALGORITHM
+            - SWAN OPTIGATION
+            
+            
+            
+      
